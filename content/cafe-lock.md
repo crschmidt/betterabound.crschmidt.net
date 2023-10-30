@@ -69,8 +69,8 @@ For folks on the Aventon Abound in the Boston metro area, we have partnered
 with [E-Bikes of New England](https://www.ebikesofne.com/) to provide access
 to ready-to-install kits via the [Camberville E-Bike Lending
 Library](https://camberville.ebikelibrary.org/). We will provide a
-pre-assembled lock and 3d-printed mount, and hardware to attach the 
-3D-printed mount.
+pre-assembled lock and 3d-printed mount, hardware to attach the 
+3D-printed mount, and the Kryptonite 912 plug-in chain.
 
 **Purchasing the pre-built kit helps support the Camberville E-Bike Library,
 and is available for $125.**

@@ -34,12 +34,16 @@ To install the lock kit and mount:
  
 2. Align the back of the lock to the flat side of the 3D printed mount,
    aligning the bolt hole with the center mounting hole on the lock.
+3. Thread the provided bolt through the non-flat side of the 3d
+   printed mount, then through the middle hole of the ABUS lock; the bolt
+   head should be on the mount side, with the bolt threads on the lock side.
+3. Insert a zip-tie through the lower hole in the ABUS lock, aligned with
+   the hole in the vertical hole in the 3D printed mount. 
+   The ziptie will wrap around the fork, so the ziptie lock should be facing to
+   the outside edge of the mount.
 3. Attach the lock to the mount using the bolts provided with the lock, and a 
-   nylock nut on each side. Before tightening the bolt fully, 
-   insert the ziptie through the lower mounting hole, aligned with the ziptie
-   hole in the 3D printed mount. The ziptie will wrap around the fork,
-   so the ziptie lock should be facing to the outside edge of the mount.
-
+   nylock nut on each side.
+   
 ### Attach the Lock to the Fork
 
 <img src="/img/fork-mounted.jpg" style="width: 350px; margin-left: 5px; margin-bottom: 5px; float: right;" /> 

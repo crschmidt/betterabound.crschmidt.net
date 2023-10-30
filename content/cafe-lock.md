@@ -23,7 +23,7 @@ install one.
 
 ## Installation
 
-<img src="/img/mount-nut.jpg" style="width: 200px; margin-left: 5px; margin-bottom: 5px; float: right;" /> 
+<img src="/img/mount-nut-sm.jpg" style="width: 200px; margin-left: 5px; margin-bottom: 5px; float: right;" /> 
 
 To install the lock kit and mount:
 
@@ -46,7 +46,7 @@ To install the lock kit and mount:
    
 ### Attach the Lock to the Fork
 
-<img src="/img/fork-mounted.jpg" style="width: 350px; margin-left: 5px; margin-bottom: 5px; float: right;" /> 
+<img src="/img/fork-mounted-sm.jpg" style="width: 350px; margin-left: 5px; margin-bottom: 5px; float: right;" /> 
 
 1. Remove the two bolts from the fork which attach the fender stays. Retain
    the washers from the bolt.

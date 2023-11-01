@@ -14,6 +14,7 @@ tools and expansions from members of the Abound ecosystem.
   Aventon Abound.
 * [Improved Seatpad Mounting](/seatpad/): Find out how to more securely mount
   your seatpad to the bike, and how to get seating in front of your child seat.
+* [Technical documents](/docs/): Various Abound technical documents.
 
 <img src="/img/winter-kit.jpg" width="45%" /> <img src="/img/abound-sideview.jpg" width="45%" style="margin-left: 25px"/>
 

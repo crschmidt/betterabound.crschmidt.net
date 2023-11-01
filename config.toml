@@ -727,4 +727,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     identifier = "docs"
     name = "Maintenance Docs"
     url = "/docs/"
-
+  [[menu.main]]
+    weight = 2 
+    identifier = "donate"
+    name = "Support the Project"
+    url = "https://www.familybikeride.org/donate"

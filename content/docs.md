@@ -6,5 +6,5 @@ draft: false
 
 | Document | Link | 
 | ---- | ------------ |
-| Abound brake sensor adjustment | <a href="/docs/Abound Brake Sensor adjustment.pdf">Abound Brake Sensor adjustment.pdf</a>
-| Abound controller replacement | <a href="/docs/Abound Controller install.pdf">Abound Controller install.pdf</a>
+| Abound brake sensor adjustment | [Abound Brake Sensor adjustment.pdf](/docs/Abound%20Brake%20Sensor%20adjustment.pdf)
+| Abound controller replacement | [Abound Controller install.pdf](/docs/Abound%20Controller%20install.pdf)

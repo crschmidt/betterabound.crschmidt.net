@@ -67,16 +67,3 @@ To install the lock kit and mount:
    into the fender stays.
 
 
-## Pre-Built Kit; Boston Area only
-
-For folks on the Aventon Abound in the Boston metro area, we have partnered 
-with [E-Bikes of New England](https://www.ebikesofne.com/) to provide access
-to ready-to-install kits via the [Camberville E-Bike Lending
-Library](https://camberville.ebikelibrary.org/). We will provide a
-pre-assembled lock and 3d-printed mount, hardware to attach the 
-3D-printed mount, and the Kryptonite 912 plug-in chain.
-
-**Purchasing the pre-built kit helps support the Camberville E-Bike Library,
-and is available for $125.**
-
-To obtain a pre-assembled Aventon Wheel Lock kit, please contact [camberville@ebikelibrary.org](mailto:camberville@ebikelibrary.org).

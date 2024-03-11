@@ -35,6 +35,8 @@ The Aventon Front Basket Kit includes the Front Utility Rack (which was
 previously sold separately); the front basket is too small to serve cargo needs
 for many users, which is why we go with the crate. 
 
+**If you have a local dealer**: While Aventon doesn't sell this item standalone anymore, dealers still have access to a Front Utility Rack (ie, the basket kit, but without the basket.) The price for that item when Aventon sold it was $70, so this can save you a bit of money.
+
 Tern HSD, GSD, Quick-Haul
 -------------------------
 

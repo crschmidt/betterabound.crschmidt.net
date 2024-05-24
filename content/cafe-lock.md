@@ -17,9 +17,23 @@ install one.
 
 | Item | Typical Cost | 
 | ---- | ------------ |
-| Lock: ABUS 4750 XL Frame Lock ([Amazon Link](https://amzn.to/46NeDwM)) | $60 |
+| Lock: ABUS 4750 XL Frame Lock ([Amazon Link](https://amzn.to/46NeDwM)) | $110 |
 | Chain: Kryptonite Ring Lock 912 Plug-In Chain ([Amazon Link](https://amzn.to/3tTjAFN)) | $50 |
 | Mounting Bracket: 3d-Printable bracket mount ([3D Model](https://www.printables.com/model/530496-aventon-abound-4750xl-cafe-lock-bracket)) | (self-produced) |
+
+This Frame Lock is a specific model that is needed to fit around the Abound
+fender and tire. Because it is uncommon in the US, sourcing this lock may be
+somewhat difficult.
+
+The Kryptonite 912 Plug-in Chain is the largest thickness plug-in chain is
+thicker than the thickest chain available from ABUS (6mm). This chain works
+with the ABUS 4750 XL lock; it may not work in smaller ABUS locks.
+
+> If you are based in the Camberville area, this can be purchased as a kit.
+> Cost is $150, and can be picked up near Porter Square or Roslindale Village,
+> Boston. If you are interested, you can [purchase
+> here](https://donorbox.org/abound-cafe-lock) or e-mail
+> cafelock@communitypedalpower.org with any questions.
 
 ## Installation
 
@@ -31,7 +45,6 @@ To install the lock kit and mount:
 
    
 1. Remove the plastic mounting hole covers from the front of the ABUS lock.
- 
 2. Align the back of the lock to the flat side of the 3D printed mount,
    aligning the bolt hole with the center mounting hole on the lock.
 3. Thread the provided bolt through the non-flat side of the 3d

@@ -19,7 +19,7 @@ High quality storage has the properties that it is:
   storage area is very useful.
 * Large: You'll want something that can carry a lot.
 
-The solution that we've found works best for the Abound is a double-wide rectangle milk crate from [Milk Crates Direct](https://milkcratesdirect.com/), combined with the Front Utility Rack (no longer sold individually) and some mounting hardware.
+The solution that we've found works best for the Abound is a double-wide rectangle milk crate from [Milk Crates Direct](https://milkcratesdirect.com/), combined with the Front Utility Rack and some mounting hardware.
 
 Aventon Abound
 --------------

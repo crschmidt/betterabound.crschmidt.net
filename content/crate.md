@@ -19,23 +19,19 @@ High quality storage has the properties that it is:
   storage area is very useful.
 * Large: You'll want something that can carry a lot.
 
-The solution that we've found works best for the Abound is a double-wide rectangle milk crate from [Milk Crates Direct](https://milkcratesdirect.com/), combined with the Front Utility Rack (no longer sold individually) and some mounting hardware.
+The solution that we've found works best for the Abound is a double-wide rectangle milk crate from [Milk Crates Direct](https://milkcratesdirect.com/), combined with the Front Utility Rack and some mounting hardware.
 
 Aventon Abound
 --------------
 
 | Item | Typical Cost (Individual pricing) |
 | ---- | --------------------------------- |
-| [Front Basket Kit](https://www.aventon.com/products/aventon-front-basket-kit) | $98 | 
+| [Front Utility Rack](https://www.aventon.com/products/aventon-front-utility-rack) | $70 | 
 | [24 qt milk crate](https://www.milkcratesdirect.com/rectangular-milk-crates-6-gallon-24-quart/rectangular-milk-crate-24qt) | $10, plus $11 shipping |
 | 2 M5 bolts and nylock washers | $3 |
 | 2 1.5" fender washers | $2 |
 
-The Aventon Front Basket Kit includes the Front Utility Rack (which was
-previously sold separately); the front basket is too small to serve cargo needs
-for many users, which is why we go with the crate. 
-
-**If you have a local dealer**: While Aventon doesn't sell this item standalone anymore, dealers still have access to a Front Utility Rack (ie, the basket kit, but without the basket.) The price for that item when Aventon sold it was $70, so this can save you a bit of money.
+The Aventon front basket is too small to serve cargo needs for many users, which is why we go with the crate. 
 
 Tern HSD, GSD, Quick-Haul
 -------------------------

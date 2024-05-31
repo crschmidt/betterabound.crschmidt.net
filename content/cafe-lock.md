@@ -20,6 +20,8 @@ install one.
 | Lock: ABUS 4750 XL Frame Lock ([Amazon Link](https://amzn.to/46NeDwM)) | $110 |
 | Chain: Kryptonite Ring Lock 912 Plug-In Chain ([Amazon Link](https://amzn.to/3tTjAFN)) | $50 |
 | Mounting Bracket: 3d-Printable bracket mount ([3D Model](https://www.printables.com/model/530496-aventon-abound-4750xl-cafe-lock-bracket)) | (self-produced) |
+| Mounting harder (4 stainless steel M5 bolts, 2 stainless steel nylon lock nuts, 2 zip ties) | Hardware store (~$6) |
+
 
 This Frame Lock is a specific model that is needed to fit around the Abound
 fender and tire. Because it is uncommon in the US, sourcing this lock may be

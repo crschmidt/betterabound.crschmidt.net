@@ -19,7 +19,7 @@ High quality storage has the properties that it is:
   storage area is very useful.
 * Large: You'll want something that can carry a lot.
 
-The solution that we've found works best for the Abound is a double-wide rectangle milk crate from [Milk Crates Direct](https://milkcratesdirect.com/), combined with the Front Utility Rack and some mounting hardware.
+The solution that we've found works best for the Abound is a double-wide rectangle milk crate from [Milk Crates Direct](https://milkcratesdirect.com/), combined with the Front Pizza Rack and some mounting hardware.
 
 > If you are based in the Camberville area, you can order a milk crate for local pickup [through Community Pedal Power in our online store](https://community-pedal-power.square.site/product/double-wide-milk-crate/7).
 
@@ -28,7 +28,7 @@ Aventon Abound
 
 | Item | Typical Cost (Individual pricing) |
 | ---- | --------------------------------- |
-| [Front Utility Rack](https://www.aventon.com/products/aventon-front-utility-rack) | $70 | 
+| [Front Pizza Rack](https://alnk.to/1XYoHKb) | $69 | 
 | [24 qt milk crate](https://www.milkcratesdirect.com/rectangular-milk-crates-6-gallon-24-quart/rectangular-milk-crate-24qt) | $10, plus $20 shipping |
 | 2 M5 bolts and nylock washers | $3 |
 | 2 1.5" fender washers | $2 |

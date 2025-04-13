@@ -27,7 +27,7 @@ Aventon Abound
 | Item | Typical Cost (Individual pricing) |
 | ---- | --------------------------------- |
 | [Front Utility Rack](https://www.aventon.com/products/aventon-front-utility-rack) | $70 | 
-| [24 qt milk crate](https://www.milkcratesdirect.com/rectangular-milk-crates-6-gallon-24-quart/rectangular-milk-crate-24qt) | $10, plus $11 shipping |
+| [24 qt milk crate](https://www.milkcratesdirect.com/rectangular-milk-crates-6-gallon-24-quart/rectangular-milk-crate-24qt) | $10, plus $20 shipping |
 | 2 M5 bolts and nylock washers | $3 |
 | 2 1.5" fender washers | $2 |
 
@@ -41,7 +41,7 @@ On a Tern, you can replicate the setup by using the [Hauler Rack](https://www.te
 | Item | Typical Cost (Individual pricing) |
 | ---- | --------------------------------- |
 | [Hauler Rack](https://www.ternbicycles.com/us/accessories/471/hauler-rack) | $140 | 
-| [24 qt milk crate](https://www.milkcratesdirect.com/rectangular-milk-crates-6-gallon-24-quart/rectangular-milk-crate-24qt) | $10, plus $11 shipping |
+| [24 qt milk crate](https://www.milkcratesdirect.com/rectangular-milk-crates-6-gallon-24-quart/rectangular-milk-crate-24qt) | $10, plus $20 shipping |
 | 2 M5 bolts and nylock washers | $3 |
 | 2 1.5" fender washers | $2 |
 

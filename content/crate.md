@@ -21,6 +21,8 @@ High quality storage has the properties that it is:
 
 The solution that we've found works best for the Abound is a double-wide rectangle milk crate from [Milk Crates Direct](https://milkcratesdirect.com/), combined with the Front Utility Rack and some mounting hardware.
 
+> If you are based in the Camberville area, you can order a milk crate for local pickup [through Community Pedal Power in our online store](https://community-pedal-power.square.site/product/double-wide-milk-crate/7).
+
 Aventon Abound
 --------------
 
